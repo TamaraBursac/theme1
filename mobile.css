@@ -1,0 +1,13 @@
+#about-us .about-us-container{
+  display: block;
+  width: 100%;
+}
+#about-us .about-us-container .img{width: 100%;
+
+}
+#about-us .about-us-container .para{
+  width: 100%;
+  height: 200px;
+  text-align: center;
+  padding-top: 35px;
+}
